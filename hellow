@@ -1,4 +1,6 @@
 #nclude<stdio.h>
 main(){
+int a=0;
 printf("hellow");
+printf("its just an example");
 }
