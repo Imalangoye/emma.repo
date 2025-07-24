@@ -4,6 +4,6 @@ int a=0;
 printf("hellow");
 printf("its just an example");
 int b=6;
-float s=2000
+float s=20000
 
 }
